@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ChimieLean - Bienvenue
-permalink: /chimielearm/
+permalink: /chimielearn/
 ---
 
 Bienvenue sur ChimieLearn

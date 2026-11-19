@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ChimieLean Privacy Policy
-permalink: /chimielearm/privacy
+permalink: /chimielearn/privacy
 ---
 
 Politique de Confidentialité pour ChimieLearn Dernière mise à jour : 5 août 2025 Cette politique de confidentialité explique la manière dont l'application mobile chimieLearn gère les informations de ses utilisateurs.
